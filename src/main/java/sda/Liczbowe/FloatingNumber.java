@@ -1,4 +1,4 @@
-package sda;
+package sda.Liczbowe;
 
 public class FloatingNumber {
 
